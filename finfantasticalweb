@@ -1,0 +1,54 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Fin's FANTASTICAL Website</title>
+</head>
+
+<style>
+
+body{background-color:indigo;
+	font-family:cursive;
+}
+
+p{color:orange; background-color:cyan;}
+ul{color:orange; background-color:cyan;}
+a{text-decoration:none;
+background-color:cyan;}
+
+</style>
+
+<body>
+
+<h1>Fin's FANTASTICAL Website</h1>
+
+<a href="https://0x0800.github.io/2048-CUPCAKES/" target="_blank"><img src="https://0x0800.github.io/2048-CUPCAKES/style/img/8192.jpg" alt="Cupcake" height="250"><p>This is a picture of a cupcake, from the website '2048 CUPCAKES, click here to see it.</p></a>
+
+<ul>
+
+<li>I like HTML (HyperText Markup Language)
+<li>Yes i know it's boring reading this
+
+</ul>
+
+<h1>This is a list of my friends</h1>
+
+<ul>
+
+<li>Lily
+<li>Elizabeth
+<li>Harrison
+<li>Ariana
+<li>Shianne
+<li>basically everyone else I do irl among us with
+
+</ul>
+
+<h1>More info about ME</h1>
+
+<p>So, I have a <a href="https://scratch.mit.edu/" ><em>Scratch</em></a> account called <em>cikle4443</em>, along with <em>ciklezz</em>, and <em>cikle444test</em>.<br> I am currently working on a Choose Your Own Adventure story, called Choose Your Own Adventure Story: AMONG US EDTION.</p>
+
+<a href="https://scratch.mit.edu/" target="_blank">Here's a link to a great website!</a>
+
+</body>
+</html>
